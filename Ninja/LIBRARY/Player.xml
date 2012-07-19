@@ -1,0 +1,257 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Player" itemID="4ee50822-000001f9" linkageExportForAS="true" linkageBaseClass="core.PlayerBase" linkageClassName="Player" lastModified="1330560532" lastUniqueIdentifier="15">
+  <timeline>
+    <DOMTimeline name="Player" currentFrame="21">
+      <layers>
+        <DOMLayer name="Label" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" name="Run" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="17" name="Dash" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="3" name="Jump" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/5.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-42.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/6.png">
+                  <matrix>
+                    <Matrix tx="-14" ty="-44"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/1.png">
+                  <matrix>
+                    <Matrix tx="-15" ty="-50.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/4.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-53.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Arte Bitmap/Ninja/1.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-51.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Arte Bitmap/Ninja/4.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-53.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/1.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-51.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Arte Bitmap/Ninja/4.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-53.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Arte Bitmap/Ninja/1.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-51.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Arte Bitmap/Ninja/4.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-53.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/1.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-51.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Arte Bitmap/Ninja/4.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-53.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Arte Bitmap/Ninja/1.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-51.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/4.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-53.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/1.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-51.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/4.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-53.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/1.png">
+                  <matrix>
+                    <Matrix tx="-13.5" ty="-51.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/3.png">
+                  <matrix>
+                    <Matrix tx="-22.15" ty="-41.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/3.png">
+                  <matrix>
+                    <Matrix a="-0.866012573242188" b="0.499984741210938" c="-0.499984741210938" d="-0.866012573242188" tx="48.5" ty="-15.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Arte Bitmap/Ninja/3.png">
+                  <matrix>
+                    <Matrix a="0.25885009765625" b="-0.965896606445313" c="0.965896606445313" d="0.25885009765625" tx="-22.2" ty="7.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HitBox" color="#9933CC" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="HitBox" name="PlayerHitBox" centerPoint3DX="10.5" centerPoint3DY="-23.05" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.599502563476563" d="0.781097412109375" tx="-6" ty="-44.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.5" y="27.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="HitBox" name="PlayerHitBox" centerPoint3DX="-46.5" centerPoint3DY="-23.05" isVisible="false">
+                  <matrix>
+                    <Matrix a="2.92558288574219" d="0.781097412109375" tx="-126.95" ty="-44.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.5" y="27.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="HitBox" name="PlayerHitBox" centerPoint3DX="9.5" centerPoint3DY="-23.05" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.942413330078125" d="0.781097412109375" tx="-16.45" ty="-44.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.45" y="27.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="HitBox" name="PlayerHitBox" centerPoint3DX="8.5" centerPoint3DY="-26.05" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.923797607421875" d="0.951522827148438" tx="-16.9" ty="-52.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.5" y="27.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

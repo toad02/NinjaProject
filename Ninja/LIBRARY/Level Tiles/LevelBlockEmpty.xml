@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Level Tiles/LevelBlockEmpty" itemID="4ec53378-000001ed" linkageExportForAS="true" linkageBaseClass="core.LevelBlock" linkageClassName="LevelBlockEmpty" lastModified="1330560991" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="LevelBlockEmpty">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LevelElements/Floor" name="floor" centerPoint3DX="320.4" centerPoint3DY="344.5">
+                  <matrix>
+                    <Matrix a="2.75047302246094" tx="0.05" ty="310"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.45" y="34.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

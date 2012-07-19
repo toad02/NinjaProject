@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Enemies/Jumper" itemID="4f457e28-00000208" linkageExportForAS="true" linkageBaseClass="core.Enemies.Jumper" linkageClassName="Jumper" lastModified="1342232774" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Jumper">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1117 -1023|1117 60!1117 60|0 60!0 60|0 -1023!0 -1023|1117 -1023"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="HitBox" name="EnemyHitBox" centerPoint3DX="28.35" centerPoint3DY="-26.65">
+                  <matrix>
+                    <Matrix a="0.709091186523438" d="0.709091186523438" tx="8.85" ty="-46.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.5" y="27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,93 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LevelElements/Grama" itemID="4f4a975f-000003ae" lastModified="1330288479">
+  <timeline>
+    <DOMTimeline name="Grama" currentFrame="51">
+      <layers>
+        <DOMLayer name="flash0.ai" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Ilustrator/flash0.ai Assets_0/flash0.ai Assets">
+                  <matrix>
+                    <Matrix ty="-27"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Ilustrator/flash0.ai Assets_1/flash0.ai Assets">
+                  <matrix>
+                    <Matrix ty="-27"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Ilustrator/flash0.ai Assets_2/flash0.ai Assets">
+                  <matrix>
+                    <Matrix ty="-27"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Ilustrator/flash0.ai Assets_3/flash0.ai Assets">
+                  <matrix>
+                    <Matrix ty="-27"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Ilustrator/flash0.ai Assets_4/flash0.ai Assets">
+                  <matrix>
+                    <Matrix ty="-27"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Ilustrator/flash0.ai Assets_5/flash0.ai Assets">
+                  <matrix>
+                    <Matrix ty="-27"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Ilustrator/flash0.ai Assets_6/flash0.ai Assets">
+                  <matrix>
+                    <Matrix ty="-27"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Ilustrator/flash0.ai Assets_7/flash0.ai Assets">
+                  <matrix>
+                    <Matrix ty="-27"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Ilustrator/flash0.ai Assets_8/flash0.ai Assets">
+                  <matrix>
+                    <Matrix ty="-27"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

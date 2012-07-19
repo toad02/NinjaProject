@@ -1,0 +1,137 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="645" height="450" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" viewAngle3D="62.8067261459351" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" tabRulerVisible="false" autoSaveHasPrompted="true">
+     <folders>
+          <DOMFolderItem name="Arte Bitmap" itemID="4f4a86dc-000002cf"/>
+          <DOMFolderItem name="Arte Bitmap/Cenário" itemID="4f29d2ac-000001ee"/>
+          <DOMFolderItem name="Arte Bitmap/Inimigos" itemID="4f29d2b2-000001f2"/>
+          <DOMFolderItem name="Arte Bitmap/Ninja" itemID="4f4eb416-0000021e"/>
+          <DOMFolderItem name="BackGrounds" itemID="4f5377f5-000004ad"/>
+          <DOMFolderItem name="BackGrounds/Arte Bitmap" itemID="4f537803-000004b5"/>
+          <DOMFolderItem name="Enemies" itemID="4f457d47-00000202" isExpanded="true"/>
+          <DOMFolderItem name="Ilustrator" itemID="4f4a971d-00000388"/>
+          <DOMFolderItem name="Ilustrator/flash0.ai Assets_0" itemID="4f4a9847-0000020b"/>
+          <DOMFolderItem name="Ilustrator/flash0.ai Assets_1" itemID="4f4a985d-0000020f"/>
+          <DOMFolderItem name="Ilustrator/flash0.ai Assets_2" itemID="4f4a9869-00000213"/>
+          <DOMFolderItem name="Ilustrator/flash0.ai Assets_3" itemID="4f4a9876-00000217"/>
+          <DOMFolderItem name="Ilustrator/flash0.ai Assets_4" itemID="4f4a9884-0000021b"/>
+          <DOMFolderItem name="Ilustrator/flash0.ai Assets_5" itemID="4f4a9892-0000021f"/>
+          <DOMFolderItem name="Ilustrator/flash0.ai Assets_6" itemID="4f4a989b-00000223"/>
+          <DOMFolderItem name="Ilustrator/flash0.ai Assets_7" itemID="4f4a98a5-00000227"/>
+          <DOMFolderItem name="Ilustrator/flash0.ai Assets_8" itemID="4f4a98b0-0000022b"/>
+          <DOMFolderItem name="Level Tiles" itemID="4ebc2610-000001f7" isExpanded="true"/>
+          <DOMFolderItem name="LevelElements" itemID="4f4a86d2-000002ce"/>
+          <DOMFolderItem name="PlayerMVC" itemID="4f4a86ed-000002d6"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Helvetica" itemID="4ec548cb-000001fe" font="HelveticaNeueLTCom-Cn" size="0" id="1" sourceLastImported="1321552075" embedRanges="3"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="Arte Bitmap/Ninja/1.png" itemID="4f4eb430-00000229" sourceExternalFilepath="../Arte/Ninja/1.png" sourceLastImported="1330285288" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Arte Bitmap/Ninja/1.png" bitmapDataHRef="M 21 1330558000.dat" frameRight="1020" frameBottom="980"/>
+          <DOMBitmapItem name="Arte Bitmap/Ninja/3.png" itemID="4f4eb430-00000233" sourceExternalFilepath="../Arte/Ninja/3.png" sourceLastImported="1330285677" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Arte Bitmap/Ninja/3.png" bitmapDataHRef="M 23 1330558000.dat" frameRight="1300" frameBottom="1040"/>
+          <DOMBitmapItem name="Arte Bitmap/Ninja/4.png" itemID="4f4eb430-00000238" sourceExternalFilepath="../Arte/Ninja/4.png" sourceLastImported="1330285811" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Arte Bitmap/Ninja/4.png" bitmapDataHRef="M 24 1330558000.dat" frameRight="1020" frameBottom="1040"/>
+          <DOMBitmapItem name="Arte Bitmap/Ninja/5.png" itemID="4f4ebf52-00000462" sourceExternalFilepath="../Ninja/LIBRARY/Arte Bitmap/Ninja/5.png" sourceLastImported="1330285849" externalFileSize="3516" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Arte Bitmap/Ninja/5.png" bitmapDataHRef="M 25 1330558000.dat" frameRight="1020" frameBottom="880"/>
+          <DOMBitmapItem name="Arte Bitmap/Ninja/6.png" itemID="4f4ebf52-00000463" sourceExternalFilepath="../Ninja/LIBRARY/Arte Bitmap/Ninja/6.png" sourceLastImported="1330285889" externalFileSize="3616" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Arte Bitmap/Ninja/6.png" bitmapDataHRef="M 26 1330558001.dat" frameRight="960" frameBottom="960"/>
+          <DOMBitmapItem name="Arte Bitmap/Ninja/7.png" itemID="4f4ebf52-00000464" sourceExternalFilepath="../Ninja/LIBRARY/Arte Bitmap/Ninja/7.png" sourceLastImported="1330285960" externalFileSize="3606" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Arte Bitmap/Ninja/7.png" bitmapDataHRef="M 27 1330558001.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Arte Bitmap/Ninja/8.png" itemID="4f4ebf53-00000465" sourceExternalFilepath="../Ninja/LIBRARY/Arte Bitmap/Ninja/8.png" sourceLastImported="1330286000" externalFileSize="3552" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Arte Bitmap/Ninja/8.png" bitmapDataHRef="M 20 1330558000.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Ilustrator/flash0.ai Assets_8/flash0.ai Assets" itemID="4f4a98b0-0000022e" sourceLastImported="1330288816" originalCompressionType="lossless" quality="50" href="Ilustrator/flash0.ai Assets_8/flash0.ai Assets" bitmapDataHRef="M 54 1330288451.dat" frameRight="1660" frameBottom="540"/>
+          <DOMBitmapItem name="Ilustrator/flash0.ai Assets_7/flash0.ai Assets" itemID="4f4a98a5-0000022a" sourceLastImported="1330288805" originalCompressionType="lossless" quality="50" href="Ilustrator/flash0.ai Assets_7/flash0.ai Assets" bitmapDataHRef="M 53 1330288451.dat" frameRight="1660" frameBottom="540"/>
+          <DOMBitmapItem name="Ilustrator/flash0.ai Assets_6/flash0.ai Assets" itemID="4f4a989b-00000226" sourceLastImported="1330288795" originalCompressionType="lossless" quality="50" href="Ilustrator/flash0.ai Assets_6/flash0.ai Assets" bitmapDataHRef="M 52 1330288451.dat" frameRight="1680" frameBottom="540"/>
+          <DOMBitmapItem name="Ilustrator/flash0.ai Assets_5/flash0.ai Assets" itemID="4f4a9892-00000222" sourceLastImported="1330288786" originalCompressionType="lossless" quality="50" href="Ilustrator/flash0.ai Assets_5/flash0.ai Assets" bitmapDataHRef="M 51 1330288451.dat" frameRight="1720" frameBottom="540"/>
+          <DOMBitmapItem name="Ilustrator/flash0.ai Assets_4/flash0.ai Assets" itemID="4f4a9884-0000021e" sourceLastImported="1330288772" originalCompressionType="lossless" quality="50" href="Ilustrator/flash0.ai Assets_4/flash0.ai Assets" bitmapDataHRef="M 50 1330288451.dat" frameRight="1740" frameBottom="540"/>
+          <DOMBitmapItem name="Ilustrator/flash0.ai Assets_3/flash0.ai Assets" itemID="4f4a9876-0000021a" sourceLastImported="1330288758" originalCompressionType="lossless" quality="50" href="Ilustrator/flash0.ai Assets_3/flash0.ai Assets" bitmapDataHRef="M 49 1330288451.dat" frameRight="1720" frameBottom="540"/>
+          <DOMBitmapItem name="Ilustrator/flash0.ai Assets_2/flash0.ai Assets" itemID="4f4a9869-00000216" sourceLastImported="1330288745" originalCompressionType="lossless" quality="50" href="Ilustrator/flash0.ai Assets_2/flash0.ai Assets" bitmapDataHRef="M 48 1330288451.dat" frameRight="1680" frameBottom="540"/>
+          <DOMBitmapItem name="Ilustrator/flash0.ai Assets_1/flash0.ai Assets" itemID="4f4a985d-00000212" sourceLastImported="1330288733" originalCompressionType="lossless" quality="50" href="Ilustrator/flash0.ai Assets_1/flash0.ai Assets" bitmapDataHRef="M 47 1330288451.dat" frameRight="1660" frameBottom="540"/>
+          <DOMBitmapItem name="Ilustrator/flash0.ai Assets_0/flash0.ai Assets" itemID="4f4a9847-0000020e" sourceLastImported="1330288711" originalCompressionType="lossless" quality="50" href="Ilustrator/flash0.ai Assets_0/flash0.ai Assets" bitmapDataHRef="M 46 1330288451.dat" frameRight="1660" frameBottom="540"/>
+          <DOMBitmapItem name="BackGrounds/Arte Bitmap/fundo com a lua.png" itemID="4f4a8754-000002e9" linkageExportForAS="true" linkageClassName="LuaBG" sourceExternalFilepath="../Ninja/LIBRARY/Arte Bitmap/fundo com a lua.png" sourceLastImported="1330284371" originalCompressionType="lossless" quality="50" href="BackGrounds/Arte Bitmap/fundo com a lua.png" bitmapDataHRef="M 28 1330870275.dat" frameRight="9600" frameBottom="6400"/>
+          <DOMBitmapItem name="Arte Bitmap/fundo com a lua.png" itemID="4f6f603b-0000021b" sourceExternalFilepath="../Ninja/LIBRARY/Arte Bitmap/fundo com a lua.png" sourceLastImported="1330284371" externalFileSize="40777" originalCompressionType="lossless" quality="50" href="Arte Bitmap/fundo com a lua.png" bitmapDataHRef="M 10 1330201473.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="BackGrounds/Arte Bitmap/montanha isolada.png" itemID="4f4a8754-000002ea" sourceExternalFilepath="../Ninja/LIBRARY/Arte Bitmap/montanha isolada.png" sourceLastImported="1330284371" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="BackGrounds/Arte Bitmap/montanha isolada.png" bitmapDataHRef="M 29 1330870275.dat" frameRight="16000" frameBottom="6400"/>
+          <DOMBitmapItem name="Arte Bitmap/montanha isolada.png" itemID="4f6f603b-0000021c" sourceExternalFilepath="../Ninja/LIBRARY/Arte Bitmap/montanha isolada.png" sourceLastImported="1330284371" externalFileSize="13902" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Arte Bitmap/montanha isolada.png" bitmapDataHRef="M 11 1330201477.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Arte Bitmap/Cenário/telhadoDir.png" itemID="4f11e8b4-00000230" sourceExternalFilepath="../Ninja/LIBRARY/Arte/telhadoDir.png" sourceLastImported="1332699193" externalFileSize="18217" originalCompressionType="lossless" quality="50" href="Arte Bitmap/Cenário/telhadoDir.png" bitmapDataHRef="M 3 1326573529.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Arte Bitmap/Cenário/telhadoEsq.png" itemID="4f11e8b4-00000231" sourceExternalFilepath="../Ninja/LIBRARY/Arte/telhadoEsq.png" sourceLastImported="1332699193" externalFileSize="16236" originalCompressionType="lossless" quality="50" href="Arte Bitmap/Cenário/telhadoEsq.png" bitmapDataHRef="M 1 1326573529.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Arte Bitmap/Cenário/telhadoMeio.png" itemID="4f11e8b4-00000232" sourceExternalFilepath="../Ninja/LIBRARY/Arte/telhadoMeio.png" sourceLastImported="1332699193" externalFileSize="15967" originalCompressionType="lossless" quality="50" href="Arte Bitmap/Cenário/telhadoMeio.png" bitmapDataHRef="M 2 1326573529.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+     </media>
+     <symbols>
+          <Include href="BackGrounds/MoonBG.xml" itemID="4f4a83a0-000002bd" lastModified="1330560953"/>
+          <Include href="BackGrounds/MountainBG.xml" itemID="4f4a841c-000002c8" lastModified="1330560960"/>
+          <Include href="Enemies/Grappler.xml" itemID="4f5377b8-000004a9" lastModified="1330876215"/>
+          <Include href="Enemies/Jumper.xml" itemID="4f457e28-00000208" lastModified="1342232774"/>
+          <Include href="HitBox.xml" itemID="4ef866a5-000001e6" lastModified="1324902483"/>
+          <Include href="Level Tiles/LevelBlock1.xml" itemID="4f11cde1-000001ea" lastModified="1342234038"/>
+          <Include href="Level Tiles/LevelBlock2.xml" itemID="4ebc2958-0000021d" lastModified="1330563249"/>
+          <Include href="Level Tiles/LevelBlock3.xml" itemID="4ec53360-000001e3" lastModified="1330871325"/>
+          <Include href="Level Tiles/LevelBlock4.xml" itemID="4ec54283-000001fc" lastModified="1325285175"/>
+          <Include href="Level Tiles/LevelBlock5.xml" itemID="4ec54c1c-00000219" lastModified="1325285756"/>
+          <Include href="Level Tiles/LevelBlock6.xml" itemID="4f11cddb-000001e9" lastModified="1326566910"/>
+          <Include href="Level Tiles/LevelBlockEmpty.xml" itemID="4ec53378-000001ed" lastModified="1330560991"/>
+          <Include href="LevelElements/Box.xml" itemID="4ebc2698-0000020c" lastModified="1330560943"/>
+          <Include href="LevelElements/Floor.xml" itemID="4ebc2619-000001fa" lastModified="1330560935"/>
+          <Include href="LevelElements/Grama.xml" loadImmediate="false" itemID="4f4a975f-000003ae" lastModified="1330288479"/>
+          <Include href="LevelElements/GramaGrande.xml" loadImmediate="false" itemID="4f4ebf75-00000467" lastModified="1330560921"/>
+          <Include href="PlayerMVC/Player.xml" itemID="4ee50822-000001f9" lastModified="1330560532"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Gui" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="txtDistance" width="97" height="17.2">
+                                             <matrix>
+                                                  <Matrix tx="538.9" ty="5.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="right" aliasText="false" size="15" bitmapSize="300" face="Helvetica*"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Background" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="TestMovieChecked" v="ADLMobile"/>
+          <PD n="flash.fla.filepath" v="C:/Users/GCarvalho/Dropbox/Trabalhos/OFF/Ninja/Ninja/Ninja.xfl"/>
+          <PD n="swf.folder.path" v="C:/Users/GCarvalho/Dropbox/Trabalhos/OFF/Ninja/"/>
+          <PD n="com.air.artemis.pubipa" v="true"/>
+          <PD n="flash.swf.basename" v="Ninja"/>
+          <PD n="com.air.artemis.ipadest" v="iphone/Ninja.ipa"/>
+          <PD n="com.air.artemis.ipaopt" v="test"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="31661" publishTime="1342233952"/>
+          <PublishItem publishSize="31664" publishTime="1342233941"/>
+          <PublishItem publishSize="31690" publishTime="1342233670"/>
+          <PublishItem publishSize="31663" publishTime="1342233645"/>
+          <PublishItem publishSize="31659" publishTime="1342233223"/>
+          <PublishItem publishSize="31648" publishTime="1342233001"/>
+          <PublishItem publishSize="31645" publishTime="1342232979"/>
+          <PublishItem publishSize="31644" publishTime="1342232966"/>
+          <PublishItem publishSize="31644" publishTime="1342232918"/>
+          <PublishItem publishSize="31634" publishTime="1342232895"/>
+          <PublishItem publishSize="31633" publishTime="1342232879"/>
+          <PublishItem publishSize="31633" publishTime="1342232859"/>
+          <PublishItem publishSize="31633" publishTime="1342232807"/>
+          <PublishItem publishSize="31620" publishTime="1342232754"/>
+          <PublishItem publishSize="31612" publishTime="1342232052"/>
+          <PublishItem publishSize="31590" publishTime="1342231958"/>
+          <PublishItem publishSize="31587" publishTime="1342231888"/>
+          <PublishItem publishSize="31587" publishTime="1342231878"/>
+          <PublishItem publishSize="31587" publishTime="1342231865"/>
+          <PublishItem publishSize="31586" publishTime="1342231820"/>
+     </publishHistory>
+</DOMDocument>

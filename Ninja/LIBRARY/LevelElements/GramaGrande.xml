@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LevelElements/GramaGrande" itemID="4f4ebf75-00000467" lastModified="1330560921" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="GramaGrande">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="41.5" centerPoint3DY="-13.5">
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="123.5" centerPoint3DY="-13.5">
+                  <matrix>
+                    <Matrix tx="82"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="205.5" centerPoint3DY="-13.5">
+                  <matrix>
+                    <Matrix tx="164"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="287.5" centerPoint3DY="-13.5">
+                  <matrix>
+                    <Matrix tx="246"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Level Tiles/LevelBlock5" itemID="4ec54c1c-00000219" linkageExportForAS="true" linkageBaseClass="core.LevelBlock" linkageClassName="LevelBlock5" lastModified="1325285756" lastUniqueIdentifier="10">
+  <timeline>
+    <DOMTimeline name="LevelBlock5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LevelElements/Floor" name="floor" centerPoint3DX="519.15" centerPoint3DY="344.5">
+                  <matrix>
+                    <Matrix a="4.46685791015625" tx="-1" ty="310"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.45" y="34.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Box" centerPoint3DX="388.05" centerPoint3DY="150.4">
+                  <matrix>
+                    <Matrix a="4.28570556640625" d="1.5142822265625" tx="238.05" ty="97.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Box" centerPoint3DX="790" centerPoint3DY="256.4">
+                  <matrix>
+                    <Matrix a="4.28570556640625" d="1.5142822265625" tx="640" ty="203.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Box" centerPoint3DX="708" centerPoint3DY="48.4">
+                  <matrix>
+                    <Matrix a="6.54489135742188" d="1.5142822265625" tx="478.95" ty="-4.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

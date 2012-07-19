@@ -1,0 +1,96 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Level Tiles/LevelBlock2" itemID="4ebc2958-0000021d" linkageExportForAS="true" linkageBaseClass="core.LevelBlock" linkageClassName="LevelBlock2" lastModified="1330563249" lastUniqueIdentifier="10">
+  <timeline>
+    <DOMTimeline name="LevelBlock2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LevelElements/Floor" name="floor" centerPoint3DX="285.95" centerPoint3DY="344.5">
+                  <matrix>
+                    <Matrix a="2.45552062988281" ty="310"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.4" y="34.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Box" centerPoint3DX="266.3" centerPoint3DY="275.5">
+                  <matrix>
+                    <Matrix a="0.657150268554688" tx="243.3" ty="240.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Box" centerPoint3DX="265.3" centerPoint3DY="74.5">
+                  <matrix>
+                    <Matrix a="0.628570556640625" d="2.54286193847656" tx="243.3" ty="-14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35" y="35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="41.5" centerPoint3DY="299">
+                  <matrix>
+                    <Matrix ty="312.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="123.5" centerPoint3DY="298.95">
+                  <matrix>
+                    <Matrix tx="82" ty="312.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="204.95" centerPoint3DY="299">
+                  <matrix>
+                    <Matrix tx="163.45" ty="312.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="285.65" centerPoint3DY="299.5">
+                  <matrix>
+                    <Matrix tx="244.15" ty="313"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="367.5" centerPoint3DY="299">
+                  <matrix>
+                    <Matrix tx="326" ty="312.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="448.45" centerPoint3DY="299">
+                  <matrix>
+                    <Matrix tx="406.95" ty="312.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="530.45" centerPoint3DY="299">
+                  <matrix>
+                    <Matrix tx="488.95" ty="312.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

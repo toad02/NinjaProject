@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Enemies/Grappler" itemID="4f5377b8-000004a9" linkageExportForAS="true" linkageBaseClass="core.Enemies.Grappler" linkageClassName="Grappler" lastModified="1330876215" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Grappler">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="HitBox" name="EnemyHitBox" centerPoint3DX="27.35" centerPoint3DY="-26.65">
+                  <matrix>
+                    <Matrix tx="-0.15" ty="-54.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.5" y="27.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.5" tintColor="#0000CC"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="HitBox" name="floorHitBox" centerPoint3DX="20.35" centerPoint3DY="261.35">
+                  <matrix>
+                    <Matrix tx="-7.15" ty="233.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.5" y="27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

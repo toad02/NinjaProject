@@ -1,0 +1,192 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Level Tiles/LevelBlock1" itemID="4f11cde1-000001ea" linkageExportForAS="true" linkageBaseClass="core.LevelBlock" linkageClassName="LevelBlock1" lastModified="1342234038" lastUniqueIdentifier="40">
+  <timeline>
+    <DOMTimeline name="LevelBlock1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LevelElements/Floor" name="floor" centerPoint3DX="216.55" centerPoint3DY="344.5">
+                  <matrix>
+                    <Matrix a="1.8587646484375" ty="310"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.45" y="34.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Enemies/Jumper" centerPoint3DX="73.35" centerPoint3DY="312.35">
+                  <matrix>
+                    <Matrix tx="67.1" ty="304.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.25" y="8.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="42.5" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="1" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="123.5" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="82" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="205.5" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="164" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="287.5" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="246" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="369.35" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="327.85" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="389.95" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="348.45" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Enemies/Jumper" centerPoint3DX="178.35" centerPoint3DY="292.35">
+                  <matrix>
+                    <Matrix tx="172.1" ty="284.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.25" y="8.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Enemies/Jumper" centerPoint3DX="229.35" centerPoint3DY="293.35">
+                  <matrix>
+                    <Matrix tx="223.1" ty="285.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.25" y="8.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Enemies/Jumper" centerPoint3DX="278.35" centerPoint3DY="314.35">
+                  <matrix>
+                    <Matrix tx="272.1" ty="306.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.25" y="8.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Enemies/Jumper" centerPoint3DX="328.35" centerPoint3DY="314.35">
+                  <matrix>
+                    <Matrix tx="322.1" ty="306.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.25" y="8.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Floor" name="floor" centerPoint3DX="647.55" centerPoint3DY="344.5">
+                  <matrix>
+                    <Matrix a="1.8587646484375" tx="431" ty="310"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="116.45" y="34.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="472.5" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="431" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="554.5" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="513" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="636.5" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="595" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="718.5" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="677" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="800.35" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="758.85" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelElements/Grama" centerPoint3DX="820.95" centerPoint3DY="297.5">
+                  <matrix>
+                    <Matrix tx="779.45" ty="311"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.5" y="-13.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Enemies/Jumper" centerPoint3DX="428.35" centerPoint3DY="315.35">
+                  <matrix>
+                    <Matrix tx="422.1" ty="307.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.25" y="8.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Enemies/Jumper" centerPoint3DX="123.35" centerPoint3DY="312.35">
+                  <matrix>
+                    <Matrix tx="117.1" ty="304.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.25" y="8.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Enemies/Jumper" centerPoint3DX="378.35" centerPoint3DY="314.35">
+                  <matrix>
+                    <Matrix tx="372.1" ty="306.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.25" y="8.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
